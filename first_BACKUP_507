@@ -1,0 +1,7 @@
+this is first file.
+
+<<<<<<< HEAD
+conflict line
+=======
+i had edited this branch  via child3
+>>>>>>> child3
